@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 *.pyc
+*.zip
+*.json
 benchmark/
