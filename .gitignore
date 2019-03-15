@@ -2,5 +2,6 @@
 *.pyc
 *.zip
 *.json
-benchmark/
-gaspy/
+experiments/*/data
+experiments/*/models
+experiments/gaspy/nll_models
